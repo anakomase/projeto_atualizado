@@ -1,0 +1,73 @@
+body{
+	background-color: pink;
+	text-align: center;
+}
+
+a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+	float: right;
+	margin: 0 0 0 15px;
+}
+a:hover{
+	color: #6b3c66;
+	text-decoration: underline;
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	color: grey;
+}
+
+.primeiro{
+	font-size: 25px;
+	color: #755272;
+}
+
+.imagem{
+	border:20px solid black;
+	width: 50%;
+	height: 50%;
+
+}
+
+
+.sobre{
+	font-size: 25px;
+	color: red;
+}
+
+#ultimo{
+	color: #cfad51;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+form{
+	margin: 40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+    float: left;
+}
+form input{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 25%;
+
+}
+#mensagem{
+	float: left;
+}
+#botao:active {
+	color: #6fff00;
+}
+
